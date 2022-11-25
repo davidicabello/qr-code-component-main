@@ -12,9 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [Solution URL here](https://github.com/davidicabello)
 - Live Site URL: [Live site URL here](https://qrcodefrontendmentor.web.app/)
-
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
